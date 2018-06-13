@@ -1,0 +1,2 @@
+# Computer-Hardware-Performance-Evaluation
+The primary intention of the project is to find all the influential parameters for getting the best response variable. Thorough data analysis must be conducted by checking for data transformation, model adequacy, multicollinearity, Test of significance, variable selection and model validation on the initial model. The Final model should be able to provide good fit with predicting capability of all the future observations.
